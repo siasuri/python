@@ -3,5 +3,5 @@
 min=int(input(" "))
 hrs=min//60
 rem=min%60
-print("Hours= ",hrs)
-print("Minutes= ",rem)
+print("Hours=",hrs)
+print("Minutes=",rem)

@@ -1,4 +1,5 @@
+#Enter an amount and how many 500 and 100 notes are required
 money=int(input(" "))
-big_notes=money//500
-small_notes=money% 500
-print(f"{money}= {big_notes} notes of 500 and {small_notes} notes of 100")
+notes_500=money//500
+notes_100=money% 500
+print(f"{money}= {notes_500} notes of 500 and {notes_100} notes of 100")
