@@ -1,3 +1,4 @@
+#wap to make changes in the tuples
 numbers=(10,20,30,40)
 print("Original tuple:",numbers)
 temp=list(numbers)
